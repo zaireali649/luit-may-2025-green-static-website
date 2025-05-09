@@ -1,0 +1,1 @@
+aws s3 cp index.html s3://luit-may-2025-green-static-website-beta --acl public-read
